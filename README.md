@@ -1,7 +1,7 @@
 Le projet de d'élaboration d'un webervice de météo a été fait à l'aide du framework Laravel et de l'API openweathermap.
 
 Le projet étant fait en laravel, pour le lancer il faut suivre les recomandations du site officiel du framework disponibles ci-dessous.
-
+https://laravel.com
 
 En ce qui concerne la clé API openweathermap elle est changeable dans le .env situé à la racine du dossier en ajoutant:
 WEATHER_API_TOKEN="Votre-clé-Api"
