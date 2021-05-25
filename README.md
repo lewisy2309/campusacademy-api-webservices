@@ -1,3 +1,20 @@
+Le projet de d'élaboration d'un webervice de météo a été fait à l'aide du framework Laravel et de l'API openweathermap.
+
+Le projet étant fait en laravel, pour le lancer il faut suivre les recomandations du site officiel du framework disponibles ci-dessous.
+https://laravel.com
+
+En ce qui concerne la clé API openweathermap elle est changeable dans le .env situé à la racine du dossier en ajoutant:
+WEATHER_API_TOKEN="Votre-clé-Api"
+
+le code du pays est changeable dans le fichier APP/config/app.php
+
+Et le lien pour verifier la météo en fonction d'un code postal est <domain.tld>/weather/{zipcode}
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
